@@ -11,6 +11,7 @@ html {
 }
 
 body {
+  text-align: center;
   background: purple;
   line-height: 1.3;
 }
